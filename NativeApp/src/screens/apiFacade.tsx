@@ -4,7 +4,7 @@ import moment from "moment";
 const PORT = 8080;
 //const HOST = "192.168.2.22";
 //const HOST = "192.168.0.105"
-const SERVERLINK = "https://yolohome-0203-server-fb7b81448a09.herokuapp.com";
+const SERVERLINK = "your hosted server";
 
 var token = { token: "" };
 
