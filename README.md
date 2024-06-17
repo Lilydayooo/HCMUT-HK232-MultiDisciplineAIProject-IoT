@@ -9,7 +9,7 @@ This repository contains the server code and web client for YoloHome0203.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/YoloHome0203.git
+   git clone https://github.com/Lilydayooo/MultiDisciplineAIProject-IoT
    ```
 
 2. Navigate to the server folder:
